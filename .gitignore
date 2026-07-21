@@ -1,0 +1,47 @@
+# Logs
+*.log
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+.output/
+.vite/
+.tanstack/
+.nitro/
+.wrangler/
+
+# Python
+__pycache__/
+python/.cache/
+*.pyc
+
+# Lock files (pnpm only)
+bun.lock
+package-lock.json
+
+# Environment
+*.local
+.env
+.env.*
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+*.suo
+*.sw?
+
+# Misc
+tmp/
+~/Downloads/
+dev.log
+api_err.log
+api_out.log
+AGENTS.md
+.lovable/
+project.json
