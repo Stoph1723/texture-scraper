@@ -14,6 +14,10 @@
 
 ![Download manager with real-time progress and speed tracking](docs/screenshots/downloads.png)
 
+### Settings
+
+![Settings page](docs/screenshots/settings.png)
+
 ---
 
 ## Features
