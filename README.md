@@ -6,6 +6,16 @@
 
 ---
 
+### Browse & Search
+
+![Browse textures with fuzzy search and category filters](docs/screenshots/browse.png)
+
+### Download Manager
+
+![Download manager with real-time progress and speed tracking](docs/screenshots/downloads.png)
+
+---
+
 ## Features
 
 - **815+ free PBR textures** from Poly Haven, Kenney, and OpenGameArt
@@ -38,7 +48,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/texture-scraper.git
+git clone https://github.com/Stoph1723/texture-scraper.git
 cd texture-scraper
 ```
 
